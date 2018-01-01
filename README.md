@@ -1,5 +1,5 @@
 # spring-reactive-security
--------------------------
+
 
 Spring boot application with spring security reactive module
 
