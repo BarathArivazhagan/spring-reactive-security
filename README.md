@@ -16,7 +16,7 @@ Spring boot application with spring security reactive module
 
 * Enter the credentials: 
 
-username : barath
-password : password
+   username : barath <br>
+   password : password <br>
 
 * Expected output :  hello barath
